@@ -12,7 +12,6 @@ public class L
 
     public static void e(String msg)
     {
-        if (debug)
     }
 
 }
