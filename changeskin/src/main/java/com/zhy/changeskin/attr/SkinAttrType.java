@@ -5,6 +5,7 @@ import android.graphics.drawable.Drawable;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.ListView;
 
 import com.zhy.changeskin.ResourceManager;
 import com.zhy.changeskin.SkinManager;
